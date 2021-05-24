@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Anirban Banerjee",
+    "occupation": "SOFTWARE ENGINEER",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Anirban. I've been coding for over 6 years now. I'm a Tech enthusiast, who loves solving algorithmic problems. I have a Bachelor of Technology - BTech focused in Computer Science and Engineering from Government College of Engineering and Textile Technology, Serampore. I have graduated in 2019 and have been working in Tata Consultancy Services since then.",
+    "contactmessage": "Get in touch with me",
+    "email": "anirbanbanerjee844@gmail.com",
+    "phone": "+91 7003870759",
+    "address": {
+      "street": "6/A/18 Bhagirathi lane",
+      "city": "Serampore",
+      "state": "West Bengal",
+      "zip": "712202"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/drive/u/0/folders/1sL_mlThsSs5LO6YzpHwuGegVyB-fix81",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anirban-banerjee-29a391187/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/anirban-cpp",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Government College of Engineering and Textile Technology, Serampore (G.C.E.T.T.S)",
+        "degree": "Bachelor of Technology in Computer Science & Engineering",
+        "graduated": "June 2019",
+        "description": "Graduated with 8.56 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services (TCS)",
+        "title": "System Engineer Grade C1",
+        "years": "July 2019 - Present",
+        "description": "some random info"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Crown Clothing shop (React JS)",
+        "category": "",
+        "image": "crown.jpg",
+        "url": "https://github.com/anirban-cpp/crown"
+      },
+      {
+        "title": "Covid-19 Tacker (React JS)",
+        "category": "",
+        "image": "covid19.png",
+        "url": "https://github.com/anirban-cpp/Covid-19-Tracker"
+      },
+      {
+        "title": "Covid-helping-hand (React JS)",
+        "category": "",
+        "image": "help.jpg",
+        "url": "https://github.com/anirban-cpp/covid-helping-hand"
+      },
+      {
+        "title": "Netflix-clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://github.com/anirban-cpp/Netflix-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
